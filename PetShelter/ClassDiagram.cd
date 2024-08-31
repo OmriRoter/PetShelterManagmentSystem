@@ -1,0 +1,165 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Struct Name="Shelter" Collapsed="true">
+    <Position X="18.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAAAAAAAICoAAAAAAQIGAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>Shelter.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="__unnamed_struct_0414_1" Collapsed="true">
+    <Position X="15.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAAAAAAAAAAAACAAAAAAAAgAEAAAAAAAAAAA=</HashCode>
+      <FileName>Address.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="AdoptionRequest" Collapsed="true">
+    <Position X="18.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAABAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AdoptionRequest.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="__unnamed_struct_0473_1" Collapsed="true">
+    <Position X="11.75" Y="11" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAEABAAAAAAAAAAAAAAAAAAAAAAAAAwAA=</HashCode>
+      <FileName>CommandRecord.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="__unnamed_struct_0405_1" Collapsed="true">
+    <Position X="7.75" Y="11" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAkAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Date.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="__unnamed_struct_0441_1" Collapsed="true">
+    <Position X="11.75" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAACAAAAAAAAAQAAAAAAgAAAAAAAAAQAAAA=</HashCode>
+      <FileName>DonationRecord.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Node" Collapsed="true">
+    <Position X="20" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAIAAAA=</HashCode>
+      <FileName>LinkedList.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="__unnamed_struct_041e_1" Collapsed="true">
+    <Position X="3.75" Y="11" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>LinkedList.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="__unnamed_struct_042c_1" Collapsed="true">
+    <Position X="11.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAMAQAAAAAAAAAAAAAAFAAABAAAAAAAIAgA=</HashCode>
+      <FileName>Pet.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="__unnamed_struct_0449_1" Collapsed="true">
+    <Position X="7.75" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAgCAAAAIAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PetMedicalRecord.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="__unnamed_struct_0432_1" Collapsed="true">
+    <Position X="7.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAAAAAAAAAAAAAAIEAAAAAAAAAACAAgA=</HashCode>
+      <FileName>PetOwner.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="__unnamed_struct_048b_1" Collapsed="true">
+    <Position X="3.75" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>TrainingTipsData.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="__unnamed_struct_0448_1" Collapsed="true">
+    <Position X="3.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAAAAAAAAAAABAAAAAEAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>Volunteer.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Typedef Name="Address" Collapsed="true">
+    <Position X="15.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Address.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="CommandRecord" Collapsed="true">
+    <Position X="11.75" Y="13" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CommandRecord.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="Date" Collapsed="true">
+    <Position X="7.75" Y="13" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Date.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="DonationRecord" Collapsed="true">
+    <Position X="11.75" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DonationRecord.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="LinkedList" Collapsed="true">
+    <Position X="3.75" Y="13" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>LinkedList.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="Pet" Collapsed="true">
+    <Position X="11.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Pet.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="PetMedicalRecord" Collapsed="true">
+    <Position X="7.75" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PetMedicalRecord.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="PetOwner" Collapsed="true">
+    <Position X="7.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PetOwner.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="TrainingTip" Collapsed="true">
+    <Position X="3.75" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TrainingTipsData.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="Volunteer" Collapsed="true">
+    <Position X="3.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Volunteer.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
